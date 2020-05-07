@@ -9,3 +9,7 @@ this is a sample read me file for our GitHub Example repo. we're learning Markdo
 
 ## Link Example  one
 [Code Time](https://www.codetime.io)
+
+1. Item One 
+2. Item Two 
+3. Item Three
